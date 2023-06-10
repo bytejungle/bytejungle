@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">A third-year university student studying IT.</h3>
+<h3 align="center">I've just finished studying IT.</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [owenherbert.com](owenherbert.com)
+- 👨‍💻 All of my projects are available at [owenherbert.com](https://owenherbert.com)
 
 - 📫 How to reach me **owen.herbert@hotmail.com**
 
