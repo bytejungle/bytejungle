@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">I've just finished studying IT.</h3>
+![banner](https://github.com/bytejungle/bytejungle/assets/60369890/037b752f-3b30-4d40-b274-86ccfb0b3db7)
 
-- 🌱 I’m currently learning **React**
+# About me
 
-- 👨‍💻 All of my projects are available at [owenherbert.com](https://owenherbert.com)
+- 🌱 I’m currently learning: [React](https://react.dev/)
+- 📚 I just finished studying: Information Technology
+- 👨‍💻 Check out some of my work: [owenherbert.com](https://owenherbert.com)
+- 📫 Send me an email: owen.herbert@hotmail.com
 
-- 📫 How to reach me **owen.herbert@hotmail.com**
+# Recent Projects
+| **Project Name** | **Description** | **Technologies** | **More Info** |
+|---|---|---|---|
+| JCU Fish | A web application built for data limited fisheries that assess spawning potential ratio of fish stocks in remote environments. | `JavaScript`, `TypeScript`, `HTML`, `AWS`, `PostgreSQL` | [Click](https://owenherbert.com/projects/jcu-fish) |
+| Tropical Trouble | An immersive 3D game set in a procedurally generated world. The game includes procedural world generation, world curvature, wandering AI, and game of life simulation. | `Unity`, `C Sharp`, `Procedural Generation` | [Click](https://owenherbert.com/projects/tropical-trouble) |
+| Enderpay | A Software as a Service platform built using Laravel that allows game server owners to create an online webstore and monetize their player base. | `JavaScript`, `HTML`, `AWS`, `MySQL`, `PHP`, `Laravel`, `Stripe`, `PayPal` | [Click](https://owenherbert.com/projects/enderpay) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+# Sample Projects
+All commercial work I do is private `🔒`. You can pull and run my sample projects below on your machine. Find their instructions within the repository.
+| **Project Name** | **Technologies** | **Created** |
+|---|---|---|
+| 🏘️ Property Shop (Coming Soon) | `PHP`, `Laravel`, `JavaScript`, `TypeScript`, `ReactJS`, `TailwindCSS` | IN PROGRESS |
