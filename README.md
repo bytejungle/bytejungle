@@ -18,4 +18,4 @@
 All commercial work I do is private `🔒`. You can pull and run my sample projects below on your machine. Find their instructions within the repository.
 | **Project Name** | **Technologies** | **Created** |
 |---|---|---|
-| 🏘️ Property Shop (Coming Soon) | `PHP`, `Laravel`, `JavaScript`, `TypeScript`, `ReactJS`, `TailwindCSS` | IN PROGRESS |
+| 🏘️ [Property Shop](https://github.com/bytejungle/laravel-property-shop) | `PHP`, `Laravel`, `JavaScript`, `TypeScript`, `ReactJS`, `TailwindCSS` | 1/07/2023 |
