@@ -7,7 +7,7 @@
 - 👨‍💻 Check out some of my work: [owenherbert.com](https://owenherbert.com)
 - 📫 Send me an email: owen.herbert@hotmail.com
 
-# Recent Projects
+# Large Projects
 | **Project Name** | **Description** | **Technologies** | **More Info** |
 |---|---|---|---|
 | JCU Fish | A web application built for data limited fisheries that assess spawning potential ratio of fish stocks in remote environments. | `JavaScript`, `TypeScript`, `HTML`, `AWS`, `PostgreSQL` | [Click](https://owenherbert.com/projects/jcu-fish) |
