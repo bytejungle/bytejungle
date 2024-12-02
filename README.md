@@ -1,7 +1,5 @@
 
-![Banner](https://github.com/bytejungle/bytejungle/assets/60369890/037b752f-3b30-4d40-b274-86ccfb0b3db7)
-
-### 💻 Software Engineer
+# 💻 Software Engineer
 
 I specialize in `PHP`, `Laravel`, `React`, and `AWS`. My passion is building scalable, cloud-native applications while constantly expanding my skill set in modern web technologies. Currently deepening my knowledge of [Amazon Web Services](https://aws.amazon.com/). 
 
