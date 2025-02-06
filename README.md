@@ -1,30 +1,29 @@
 
-# 💻 Software Engineer
+# Hi, I'm Owen 👋
 
-I specialize in `PHP`, `Laravel`, `React`, and `AWS`. My passion is building scalable, cloud-native applications while constantly expanding my skill set in modern web technologies. Currently deepening my knowledge of [Amazon Web Services](https://aws.amazon.com/). 
+I am a Software Engineer that specializes in PHP, Laravel, Amazon Web Services, and ReactJS.
 
 - 🎓 **Bachelor of Information Technology**
 - 📂 **Portfolio:** [owenherbert.com](https://owenherbert.com)
 
-### 🚀 **Large Projects** 
-Here are some large-scale projects that highlight my expertise across various domains. These projects have been completed over extended timelines (10+ weeks) and required in-depth problem-solving and technical skills.
+### **Large Projects** 
+These projects have been completed over extended timelines (10+ weeks) and required in-depth problem-solving and technical skills.
 
-| **Project**       | **Description**                                                                 | **Technologies**                                                      |                    
-|-------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| [Tropical Trouble](https://owenherbert.com)  | Immersive 3D game with procedural world generation and AI.             | `Unity`, `C#`, `Procedural Generation`                                 | 
-| [Enderpay](https://owenherbert.com)     | SaaS platform for monetizing online game servers via web stores.        | `JavaScript`, `HTML`, `AWS`, `MySQL`, `PHP`, `Laravel`, `Stripe`       | 
-| [Load Logistics](https://owenherbert.com)  | Freight and logistics service platform built for Australia.            | `AWS`, `Cloudflare`, `Stripe`, `React`, `TypeScript`                                         | 
+| **Project**       | **Difficulty**         | **Description**                                                                 | **Technologies**                                                      |                    
+|-------------------|----------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| [Tropical Trouble](https://owenherbert.com)  | ⭐⭐☆☆☆ | Immersive 3D game featuring procedural world generation and AI-driven mechanics. | `Unity`, `C#`, `Procedural Generation`                                | 
+| [Enderpay](https://owenherbert.com)     | ⭐⭐⭐⭐☆ | SaaS platform enabling online game server monetization through custom web stores. | `JavaScript`, `HTML`, `AWS`, `MySQL`, `PHP`, `Laravel`, `Stripe`      | 
+| [Load Logistics](https://owenherbert.com)  | ⭐⭐⭐⭐⭐ | Full-scale freight and logistics marketplace, handling payments, bidding, and job management. | `AWS`, `Cloudflare`, `Stripe`, `React`, `TypeScript`, `PHP`, `Laravel` | 
 
-### 🔧 **Other Projects**
+
+### **Other Projects**
 Feel free to explore and run my other sample projects. These repositories include detailed instructions on how to run them locally.
 
 - **Real Estate Listing Website** - [[Repository](https://github.com/bytejungle/laravel-property-shop)]
 - **BOM Rainfall Visualiser** - [[Repository](https://github.com/owenherbert/jcu-cp2406-rainfall-visualiser)]
 - **Rocket Maths (Android Game)** - [[Repository](https://github.com/owenherbert/jcu-cp3406-rocket-maths-app)]
 
-### 🛠 **Technologies & Tools**
-
-Here are the technologies and tools I frequently use in my projects:
+### **Technologies & Tools**
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -34,7 +33,7 @@ Here are the technologies and tools I frequently use in my projects:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### 🌐 **Get in Touch**
+### **Get in Touch**
 
 I'm always open to discussing projects, sharing knowledge, or just having a chat! Feel free to reach out:
 
